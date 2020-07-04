@@ -1,5 +1,5 @@
 ### Date created
-Project is created on 4th july 
+Project and README.md is created on 4th july 
 
 ### Project Title
 Udacity github project
@@ -11,5 +11,5 @@ Project is related to bikeshare
 bikeshare.py
 
 ### Credits
-No credits
+No credits 
 
